@@ -49,7 +49,8 @@ CREATE TABLE IF NOT EXISTS `cpu` (
 
 	1. Cd varonis
 	2. Cd frontend
-	3.Npm run start
+	3. npm install
+	4. Npm run start
 
  Additional Notes
 
