@@ -54,7 +54,7 @@ CREATE TABLE IF NOT EXISTS `cpu` (
 
  Additional Notes
 
-As you know this is my first time using this stack, and I did my best to complete the entire assignment in under 5 hours. That being said, there are a variety of different things I would add and change about this assignment to improve the codebase for both scale and performance. I look forward to discussing those details with you in the future.
+~~~
 
 Thanks!  
 
